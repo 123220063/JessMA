@@ -16,7 +16,7 @@
   <body>
     <br>
   	<div align="right" style="font-size: xx-small;">
-  	Version: 3.3 by <a href="http://www.jessma.org">JessMA Open Source</a>&nbsp;<br><br>
+  	Version: 3.4 by <a href="http://www.jessma.org">JessMA Open Source</a>&nbsp;<br><br>
   	<a href="test/reload-cfg.action?type=mvc">更新 MVC 配置</a>&nbsp;
   	<a href="test/reload-cfg.action?type=rest">更新 REST 配置</a>&nbsp;
   	<a href="test/reload-cfg.action?type=user">更新用户配置</a>&nbsp;

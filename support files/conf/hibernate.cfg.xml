@@ -17,8 +17,11 @@
 		-->
 		
 		<!-- Druid Database connection settings -->
-		<!-- -->
+		<!-- Hibernate 4.2 及以前版本
 		<property name="hibernate.connection.provider_class">com.alibaba.druid.support.hibernate.DruidConnectionProvider</property>
+		-->
+		<!-- Hibernate 4.3 及后续版本 -->
+		<property name="hibernate.connection.provider_class">com.alibaba.druid.support.hibernate.DruidConnectionProvider_4_3</property>
 		<property name="driverClassName">com.mysql.jdbc.Driver</property>
 		<property name="url">
 			jdbc:mysql://localhost:3306/myjessma?autoReconnect=true&amp;failOverReadOnly=false&amp;useUnicode=true&amp;characterEncoding=UTF-8

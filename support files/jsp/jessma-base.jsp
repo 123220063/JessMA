@@ -3,11 +3,11 @@
 /*
  * Copyright Bruce Liang (ldcsaa@gmail.com)
  *
- * Version	: JessMA 3.2.1
+ * Version	: JessMA 3.4.1
  * Author	: Bruce Liang
  * Website	: http://www.jessma.org
- * Porject	: https://code.google.com/p/portal-basic
- * Bolg		: http://www.cnblogs.com/ldcsaa
+ * Project	: http://www.oschina.net/p/portal-basic
+ * Blog		: http://www.cnblogs.com/ldcsaa
  * WeiBo	: http://weibo.com/u/1402935851
  * QQ Group	: 75375912
  *

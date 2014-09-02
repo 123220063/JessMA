@@ -1,3 +1,0 @@
-Memcached-Java-Client-3.0.1.jar
-slf4j-api-1.7.5.jar
-slf4j-log4j12-1.7.5.jar
