@@ -1,2 +1,0 @@
-ehcache-core-2.4.8.jar
-ehcache-web-2.0.4.jar

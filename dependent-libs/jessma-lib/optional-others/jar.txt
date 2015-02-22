@@ -1,2 +1,0 @@
-javax.servlet.jsp.jstl.jar
-jstl-impl.jar

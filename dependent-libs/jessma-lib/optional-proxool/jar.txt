@@ -1,2 +1,0 @@
-proxool-0.9.1-fix.jar
-proxool-cglib.jar
