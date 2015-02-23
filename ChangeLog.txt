@@ -46,7 +46,7 @@
 	
 3、其它更新：
 	1) 依赖包更新到最新版本
-	2) 示例工程 jessma-sample-hello、jessma-sample-set 改为 Maven web 项目
+	2) 增加 Maven 示例工程：jessma-sample-hello 和 jessma-sample-set
 	3) 更新开发手册《JessMA Java Web 应用开发框架 (v3.5.1)》
 
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
