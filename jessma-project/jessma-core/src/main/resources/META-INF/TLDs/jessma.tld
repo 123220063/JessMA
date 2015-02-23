@@ -3,7 +3,7 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd">
 	<description>"the JessMA user tags."</description>
 	<display-name>"JessMA Tags"</display-name>
-	<tlib-version>3.4</tlib-version>
+	<tlib-version>3.5</tlib-version>
 	<short-name>p</short-name>
 	<uri>http://www.jessma.org/jsp/tags</uri>
 	
