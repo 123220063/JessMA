@@ -12,8 +12,10 @@ import org.jessma.util.http.HttpHelper;
 
 public class CheckDownload extends ActionSupport
 {
-	private static final String FILE_1	= "下载测试 - 项目框架.jpg";
-	private static final String FILE_2	= "下载测试 - 文本文件.txt";
+	private static final String FILE_1	= "file-1.jpg";
+	private static final String FILE_2	= "file-2.txt";
+	//private static final String FILE_1	= "下载测试 - 项目框架.jpg";
+	//private static final String FILE_2	= "下载测试 - 文本文件.txt";
 	
 	@Override
 	public String execute() throws Exception
